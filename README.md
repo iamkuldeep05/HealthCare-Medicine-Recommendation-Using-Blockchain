@@ -21,7 +21,7 @@ This project aims to leverage blockchain technology to revolutionize the healthc
   <li><strong>Security:</strong> The difficulty of solving the hash ensures the network's security and prevents tampering.</li>
   <li><strong>Transparency:</strong> All transactions within the block are visible to all participants.</li>
 </ul>
-
+<h3>Post Request Using Postman</h3>
 <img src="Outputs/mine1.PNG">
 <img src="Outputs/mine2.PNG">
 <br><br>
@@ -53,5 +53,6 @@ This project aims to leverage blockchain technology to revolutionize the healthc
 
 <p>Here's a stylish representation of the full chain output in a blockchain:</p>
 
+<h3>Get Request Using Postman</h3>
 
 <img src="Outputs/getchain.PNG">
