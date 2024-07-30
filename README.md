@@ -22,7 +22,8 @@ This project aims to leverage blockchain technology to revolutionize the healthc
   <li><strong>Transparency:</strong> All transactions within the block are visible to all participants.</li>
 </ul>
 
-<img src="Outputs/mine_blocks.PNG">
+<img src="Outputs/mine1.PNG">
+<img src="Outputs/mine2.PNG">
 <br><br>
 
 <h1>Full Chain Output of Blockchain</h1>
